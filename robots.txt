@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arteroeb.github.io/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/app/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/assets/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/css/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/includes/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/item/sitemap.html.gz
+Sitemap: https://arteroeb.github.io/src/sitemap.html.gz
